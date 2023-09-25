@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @jacken-star
+- 👀 I’m interested in kotlin、java、python、golang、nodejs......
+- 🌱 I’m currently learning kubernetes
+- 💞️ I’m looking to collaborate on create a company
+- 📫 How to reach me? jackenenterprise1986@gmail.com
